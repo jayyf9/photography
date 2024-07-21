@@ -19,7 +19,7 @@
     "portfolio",
     "portfolio website"
   ],
-  "author": "Ram Patra",
+  "author": "Jake French",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/rampatra/photography/issues"
@@ -32,6 +32,9 @@
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^5.0.0",
     "gulp-uglify": "^3.0.0",
-    "sass": "^1.25.0"
+    "sass": "^1.25.0-"
+  },
+  "dependencies": {
+    "ruby": "^0.6.1"
   }
 }
